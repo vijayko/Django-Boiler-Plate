@@ -21,4 +21,8 @@ This project includes:
 2. docker-compose.yml for env variables and Dockerfile 
 
 Project Structure: 
-![alt text](https://github.com/vijayko/Django-Boiler-Plate/blob/main/project-structure.png)
+<p align="left">
+    <p align="left">
+        <img src="https://github.com/vijayko/Django-Boiler-Plate/blob/main/project-structure.png" alt="Prject Structure" width="200">
+    </p>
+</p>    
