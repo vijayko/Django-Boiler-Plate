@@ -23,6 +23,6 @@ This project includes:
 Project Structure: 
 <p align="left">
     <p align="left">
-        <img src="https://github.com/vijayko/Django-Boiler-Plate/blob/main/project-structure.png" alt="Prject Structure" width="200">
+        <img src="https://github.com/vijayko/Django-Boiler-Plate/blob/main/project-structure.png" alt="Prject Structure" width="500">
     </p>
 </p>    
