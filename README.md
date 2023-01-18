@@ -20,3 +20,5 @@ This project includes:
 1. Setting module with env variables. 
 2. docker-compose.yml for env variables and Dockerfile 
 
+Project Structure: 
+![alt text](https://github.com/vijayko/Django-Boiler-Plate/blob/main/project-structure.png)
